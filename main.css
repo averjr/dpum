@@ -1,0 +1,19 @@
+#header #top {
+    height: 106px;
+    background-color: #F2F2F2;
+}
+#header #middle {
+    height: 591px;
+    background-color: #39BCB4;
+}
+#header #bottom {
+    height: 48px;
+    background-color: #F2F2F2;
+}
+
+
+#box-wrapper .box{
+    width: 565px;
+    box-shadow: 4px 4px 18px grey;
+    border-radius: 10px;
+}
